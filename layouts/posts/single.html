@@ -35,18 +35,26 @@
             <h5 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h5>
             {{ .Content }}
         </section>
+
+        {{ template "chrome/categories.html" . }}
+        {{ template "chrome/prev_next.html" . }}
+
+
+        {{ template "chrome/social.html" . }}
+        {{ template "chrome/disqus.html" . }}
+
+        {{ template "chrome/footer.html" }}
     </div>
 </div>
 
 <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-{{ template "chrome/prev_next.html" . }}
-<br/>
-{{ template "chrome/categories.html" . }}
+
 
 
 <!-- Include footer (ends <body class="theme-base-08"> and <html>) -->
-{{ template "chrome/footer.html" }}
+
+
 
 
 
