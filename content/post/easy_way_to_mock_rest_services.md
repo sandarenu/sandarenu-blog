@@ -1,11 +1,9 @@
----
-title: "Easy way to Mock REST services"
-date: "2014-08-02"
-description: "Easy way to Mock REST services for testing clients"
-categories:
-    - "programming"
-    - "Java"
----
++++
+title = "Easy way to Mock REST services"
+date = "2014-08-02"
+description = "Easy way to Mock REST services for testing clients"
+tags = ["Java", "Programming"]
++++
 
 These days we are working more and more with REST web services. Most of the times we are writing clients to access 3rd party sevices hosted in a remote server or even local services. Sometimes in large teams one group is developing the server and other group is writing the clients to use them. In such situations client team might need to test their clients without the availablity of the real service. They only have the API definition. 
 

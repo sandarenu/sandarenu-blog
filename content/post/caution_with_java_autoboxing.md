@@ -1,11 +1,15 @@
----
-title: "Caution with Java Autoboxing"
-date: "2014-06-05"
-description: "Caution with Java Autoboxing"
-categories: 
-    - "programming"
-    - "Java"
----
++++
+author = ""
+date = "2014-06-05"
+draft = false
+image = ""
+menu = ""
+share = true
+comments = true
+slug = "caution_with_java_autoboxing"
+tags = ["Java", "Programming"]
+title = "Caution with Java Autoboxing"
++++
 
 In Java **Boxing** means when you convert a primitive type to a reference type. So when you have some thing like
 

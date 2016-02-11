@@ -1,12 +1,9 @@
----
-title: "Super Charge Your Shell with ZSH"
-date: "2014-11-08"
-description: "Improve your Linux Shell with Zsh"
-categories: 
-    - "programming"
-    - "Linux"
-    - "zsh"
----
++++
+title = "Super Charge Your Shell with ZSH"
+date = "2014-11-08"
+description = "Improve your Linux Shell with Zsh"
+tags = ["Programming", "Linux", "Zsh"]
++++
 
 I've being using Linux as my primary OS for about 6 years.
 Since I'm doing programming all the time, I use shell all the time to perform various task from compiling to commiting code. First I used the normal Terminal comes with Ubuntu

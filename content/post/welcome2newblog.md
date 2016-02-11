@@ -1,11 +1,9 @@
----
-title: "Welcome to my new Blog"
-date: "2014-06-05"
-description: "Welcome to my new Blog"
-categories: 
-    - "hugo"
-    - "personal"
----
++++
+title = "Welcome to my new Blog"
+date = "2014-06-05"
+description = "Welcome to my new Blog"
+tags = ["Hugo", "Personal"]
++++
 
 ## Welcome ...
 
