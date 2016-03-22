@@ -6,9 +6,9 @@ draft = false
 image = "images/reactive-nativingitup.png.800x600_q96.png"
 menu = ""
 share = true
-slug = "post-title"
+slug = "getting-started-with-react-native"
 tags = ["Programming", "React", "React-Native"]
-title = "Getting started with react native"
+title = "Getting Started with React Native"
 
 +++
 
