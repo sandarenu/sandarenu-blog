@@ -59,7 +59,7 @@ All the projects accible to specific user group will be created under these fold
 
 # 6. Assign Folder to User Group
 
-{{< figure src="/images/jenkins/assign_folder_permission.png" title="Figure 4 - Assign Folder to User Role" >}}
+{{< figure src="/images/jenkins/assign_folder_permissions.png" title="Figure 4 - Assign Folder to User Role" >}}
 
 * Go to "Manage Jenkins" -> "Manage and Assign Roles" -> "Manage Roles" option again and then go to "Item roles" option.
 * Enter the role name as "Role to add" and the name of the folder we created above as "Pattern". Here you have to give in `<Folder Name>.*` format.
