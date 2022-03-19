@@ -1,0 +1,47 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+Title= "Sandarenu's Blog"
+paginate = 5
+DisqusShortname = "Sandarenu"
+Copyright = "All rights reserved - 2016"
+canonifyurls = true
+theme = "ananke"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = "Chathurika Sandarenu"
+  favicon = "images/sandarenu.png"
+  site_logo = ""
+  description = "All about Me and My Experiences..."
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  #background_color_class = "bg-black"
+  recent_posts_number = 3  
+  # cover = "images/cover.jpg"
+  authorlocation = "Colombo, Sri Lanka"
+  authorwebsite = "http://sandarenu.github.io"
+  bio= "I currently works at hSenid Mobile Solutions as Software Architects. My day job mainly includes writing different applications which powers Telco VAS"
+  logo = "images/sandarenu.png"
+  googleAnalyticsUserID = "UA-1148311-4"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/sandarenu" 
+  githubName = "sandarenu"
+  twitterName = "CSandarenu"
+  # facebookName = ""
+  linkedinName = "sandarenu"
+  
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/CSandarenu"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/sandarenu/"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/sandarenu/"
