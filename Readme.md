@@ -13,3 +13,9 @@ hugo server -D
 ```
 hugo -D
 ```
+
+# Create New Post
+
+```
+hugo new posts/my-first-post.md
+```
