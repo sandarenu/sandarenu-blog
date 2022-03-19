@@ -1,4 +1,4 @@
-baseURL = "http://sandarenu.github.io/"
+baseURL = "https://sandarenu.github.io/"
 languageCode = "en-us"
 Title= "Sandarenu's Blog"
 paginate = 5
@@ -23,7 +23,7 @@ theme = "ananke"
   recent_posts_number = 3  
   # cover = "images/cover.jpg"
   authorlocation = "Colombo, Sri Lanka"
-  authorwebsite = "http://sandarenu.github.io"
+  authorwebsite = "https://sandarenu.github.io"
   bio= "I currently works at hSenid Mobile Solutions as Software Architects. My day job mainly includes writing different applications which powers Telco VAS"
   logo = "images/sandarenu.png"
   googleAnalyticsUserID = "UA-1148311-4"
