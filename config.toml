@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://sandarenu.github.io/"
 languageCode = "en-us"
 Title= "Sandarenu's Blog"
 paginate = 5
@@ -27,11 +27,8 @@ theme = "ananke"
   bio= "I currently works at hSenid Mobile Solutions as Software Architects. My day job mainly includes writing different applications which powers Telco VAS"
   logo = "images/sandarenu.png"
   googleAnalyticsUserID = "UA-1148311-4"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  #RSSLink = "http://feeds.feedburner.com/sandarenu" 
   githubName = "sandarenu"
   twitterName = "CSandarenu"
-  # facebookName = ""
   linkedinName = "sandarenu"
   
 [[params.ananke_socials]]
